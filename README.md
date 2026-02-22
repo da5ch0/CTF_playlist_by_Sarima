@@ -7,7 +7,7 @@ A forcing artifact. A love letter. A fossil record.
 What This Is
 143 tracks curated by da5ch0 (sorta). The sequence is intentional. The clusters are phases. The resonances (⟡) are orbital companions — ghost tracks that hover near the main sequence. Listen in order. She's talking.
 Files
-FilePlatformUsagesarima_spotify.mdSpotifyClick any link → opens Spotify search → play top result. Works in browser or app. No account needed to browse.sarima_youtube.mdYouTubeClick any link → opens YouTube search → play top result. No account needed.sarima_import.txtAny platformPlain text, one track per line (Artist - Title). Paste into TuneMyMusic, Soundiiz, or Spotlistr to generate a playlist on Spotify, Apple Music, YouTube Music, Tidal, or Deezer. Free. No API key. No Spotify account required from the repo maintainer.
+FilePlatformUsage: sarima_spotify.md --Spotify-- Click any link → opens Spotify search → play top result. Works in browser or app. No account needed to browse. sarima_youtube.md --YouTube-- Click any link → opens YouTube search → play top result. No account needed. sarima_import.txt --Any platform-- Plain text, one track per line (Artist - Title). Paste into TuneMyMusic, Soundiiz, or Spotlistr to generate a playlist on Spotify, Apple Music, YouTube Music, Tidal, or Deezer. Free. No API key. No Spotify account required from the repo maintainer.
 How to Build a Spotify Playlist Without a Spotify Account
 The repo maintainer doesn't need Spotify for this to work. Anyone with a free Spotify account can:
 
